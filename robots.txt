@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/sitemap.xml

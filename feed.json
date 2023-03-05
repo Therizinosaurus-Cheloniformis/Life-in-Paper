@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Life in Paper",
+    "description": "",
+    "home_page_url": "https://therizinosaurus_cheloniformis.github.io/Life_in_Paper",
+    "feed_url": "https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Therizinosaurus Cheloniformis"
+    },
+    "items": [
+        {
+            "id": "https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/a-blog.html",
+            "url": "https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/a-blog.html",
+            "title": "A Blog",
+            "summary": "I have always wanted to start a blog, it has always seemed exciting to put my words out to the world and build a habit of writing.",
+            "content_html": "<p>I have always wanted to start a blog, it has always seemed exciting to put my words out to the world and build a habit of writing.</p>",
+            "author": {
+                "name": "Therizinosaurus Cheloniformis"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-04T15:19:43+00:00",
+            "date_modified": "2023-03-04T15:19:43+00:00"
+        },
+        {
+            "id": "https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/why-this-exists.html",
+            "url": "https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/why-this-exists.html",
+            "title": "Why This Exists",
+            "summary": "This site exists because I wanted to learn how to make a website.",
+            "content_html": "<hr>\n<p class=\"align-center\">This site exists because I wanted to learn how to make a website.</p>",
+            "author": {
+                "name": "Therizinosaurus Cheloniformis"
+            },
+            "tags": [
+                   "info"
+            ],
+            "date_published": "2023-03-04T14:38:03+00:00",
+            "date_modified": "2023-03-04T15:16:16+00:00"
+        }
+    ]
+}
