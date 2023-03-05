@@ -3,12 +3,81 @@
     <title>Life in Paper</title>
     <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/feed.xml" rel="self" />
     <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper" />
-    <updated>2023-03-04T15:19:43+00:00</updated>
+    <updated>2023-03-05T16:34:54+00:00</updated>
     <author>
         <name>Therizinosaurus Cheloniformis</name>
     </author>
     <id>https://therizinosaurus-cheloniformis.github.io/Life-in-Paper</id>
 
+    <entry>
+        <title>Therizinosaurus Chelonifomis</title>
+        <author>
+            <name>Therizinosaurus Cheloniformis</name>
+        </author>
+        <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/therizinosaurus-chelonifomis.html"/>
+        <id>https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/therizinosaurus-chelonifomis.html</id>
+        <media:content url="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/4/therizinosaurus.jpg" medium="image" />
+            <category term="info"/>
+
+        <updated>2023-03-05T16:34:54+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/4/therizinosaurus.jpg" alt="A Therizinosaurus Cheloniformis - the best Dinosaur of ALL time." />
+                    Hello! I am the creator of this website and blog. I like a lot of things, but here are some&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/4/therizinosaurus.jpg" class="type:primaryImage" alt="A Therizinosaurus Cheloniformis - the best Dinosaur of ALL time." /></p>
+                <p class="dropcap">Hello!</p>
+<p> </p>
+<p>I am the creator of this website and blog. I like a lot of things, but here are some of the things I like the most:</p>
+<ul>
+<li>Horror</li>
+<li>Animation (of all things)</li>
+<li>Speculative-biology</li>
+<li>fantasy maps and TTRPGs</li>
+<li>Bullet lists</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aims</title>
+        <author>
+            <name>Therizinosaurus Cheloniformis</name>
+        </author>
+        <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/aims.html"/>
+        <id>https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/aims.html</id>
+        <media:content url="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/3/bullseye-target-t-shirts-and-gifts-sticker.jpg" medium="image" />
+            <category term="info"/>
+            <category term="Blog"/>
+
+        <updated>2023-03-05T16:18:47+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/3/bullseye-target-t-shirts-and-gifts-sticker.jpg" alt="A slightly skewed target." />
+                    I have a few aims for this blog: I know the ⬆above⬆ may look like a trainee teacher's Learning Objective&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/3/bullseye-target-t-shirts-and-gifts-sticker.jpg" class="type:primaryImage" alt="A slightly skewed target." /></p>
+                <p class="dropcap">I have a few aims for this blog:</p>
+<p> </p>
+<ul>
+<li>It should help me develop a good writing habit, at lease semi-weekly
+<ul>
+<li>It should help me cultivate ideas</li>
+<li>It should help me express myself</li>
+</ul>
+</li>
+<li>It should allow me to share some knowledge that I have acquired with the world in an effective way.</li>
+</ul>
+<p>I know the <strong>⬆</strong>above<strong>⬆</strong> may look like a trainee teacher's Learning Objective slide on a PowerPoint™, but I think that they will help me keep focused on what I want the website to be.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A Blog</title>
         <author>
@@ -16,38 +85,24 @@
         </author>
         <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/a-blog.html"/>
         <id>https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/a-blog.html</id>
-
-        <updated>2023-03-04T15:19:43+00:00</updated>
-            <summary>
-                <![CDATA[
-                    I have always wanted to start a blog, it has always seemed exciting to put my words out to the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I have always wanted to start a blog, it has always seemed exciting to put my words out to the world and build a habit of writing.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Why This Exists</title>
-        <author>
-            <name>Therizinosaurus Cheloniformis</name>
-        </author>
-        <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/why-this-exists.html"/>
-        <id>https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/why-this-exists.html</id>
+        <media:content url="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/2/how-to-write-a-blog-post.jpeg" medium="image" />
             <category term="info"/>
+            <category term="Blog"/>
 
-        <updated>2023-03-04T15:16:16+00:00</updated>
+        <updated>2023-03-05T16:17:33+00:00</updated>
             <summary>
                 <![CDATA[
-                    This site exists because I wanted to learn how to make a website.
+                        <img src="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/2/how-to-write-a-blog-post.jpeg" alt="A Generic graphic design image with a blog post in the centre" />
+                    Words have always been my passion. However... consistently writing things has barely ever been easy for me. Some days, I&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <hr>
-<p class="align-center">This site exists because I wanted to learn how to make a website.</p>
+                    <p><img src="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/2/how-to-write-a-blog-post.jpeg" class="type:primaryImage" alt="A Generic graphic design image with a blog post in the centre" /></p>
+                <p class="dropcap">Words have always been my passion. </p>
+<p> </p>
+<p>However... consistently writing things has barely ever been easy for me. Some days, I can write <strong>thousands</strong> of words, while on other days, I <em>struggle</em> to push out a few hundred. Blogging, or faux-blogging always seemed like a good thing for me to do, as the people reading the blog would keep me accountable.</p>
+<p>This blog will probably be a collection/assemblage of small ideas, and/or articles that I have written about things.</p>
             ]]>
         </content>
     </entry>

@@ -10,33 +10,54 @@
     },
     "items": [
         {
-            "id": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/a-blog.html",
-            "url": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/a-blog.html",
-            "title": "A Blog",
-            "summary": "I have always wanted to start a blog, it has always seemed exciting to put my words out to the&hellip;",
-            "content_html": "<p>I have always wanted to start a blog, it has always seemed exciting to put my words out to the world and build a habit of writing.</p>",
-            "author": {
-                "name": "Therizinosaurus Cheloniformis"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-04T15:19:43+00:00",
-            "date_modified": "2023-03-04T15:19:43+00:00"
-        },
-        {
-            "id": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/why-this-exists.html",
-            "url": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/why-this-exists.html",
-            "title": "Why This Exists",
-            "summary": "This site exists because I wanted to learn how to make a website.",
-            "content_html": "<hr>\n<p class=\"align-center\">This site exists because I wanted to learn how to make a website.</p>",
+            "id": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/therizinosaurus-chelonifomis.html",
+            "url": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/therizinosaurus-chelonifomis.html",
+            "title": "Therizinosaurus Chelonifomis",
+            "summary": "Hello! I am the creator of this website and blog. I like a lot of things, but here are some&hellip;",
+            "content_html": "<p class=\"dropcap\">Hello!</p>\n<p> </p>\n<p>I am the creator of this website and blog. I like a lot of things, but here are some of the things I like the most:</p>\n<ul>\n<li>Horror</li>\n<li>Animation (of all things)</li>\n<li>Speculative-biology</li>\n<li>fantasy maps and TTRPGs</li>\n<li>Bullet lists</li>\n</ul>",
+            "image": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/4/therizinosaurus.jpg",
             "author": {
                 "name": "Therizinosaurus Cheloniformis"
             },
             "tags": [
                    "info"
             ],
-            "date_published": "2023-03-04T14:38:03+00:00",
-            "date_modified": "2023-03-04T15:16:16+00:00"
+            "date_published": "2023-03-05T16:21:35+00:00",
+            "date_modified": "2023-03-05T16:34:54+00:00"
+        },
+        {
+            "id": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/aims.html",
+            "url": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/aims.html",
+            "title": "Aims",
+            "summary": "I have a few aims for this blog: I know the ⬆above⬆ may look like a trainee teacher's Learning Objective&hellip;",
+            "content_html": "<p class=\"dropcap\">I have a few aims for this blog:</p>\n<p> </p>\n<ul>\n<li>It should help me develop a good writing habit, at lease semi-weekly\n<ul>\n<li>It should help me cultivate ideas</li>\n<li>It should help me express myself</li>\n</ul>\n</li>\n<li>It should allow me to share some knowledge that I have acquired with the world in an effective way.</li>\n</ul>\n<p>I know the <strong>⬆</strong>above<strong>⬆</strong> may look like a trainee teacher's Learning Objective slide on a PowerPoint™, but I think that they will help me keep focused on what I want the website to be.</p>",
+            "image": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/3/bullseye-target-t-shirts-and-gifts-sticker.jpg",
+            "author": {
+                "name": "Therizinosaurus Cheloniformis"
+            },
+            "tags": [
+                   "info",
+                   "Blog"
+            ],
+            "date_published": "2023-03-05T16:06:51+00:00",
+            "date_modified": "2023-03-05T16:18:47+00:00"
+        },
+        {
+            "id": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/a-blog.html",
+            "url": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/a-blog.html",
+            "title": "A Blog",
+            "summary": "Words have always been my passion. However... consistently writing things has barely ever been easy for me. Some days, I&hellip;",
+            "content_html": "<p class=\"dropcap\">Words have always been my passion. </p>\n<p> </p>\n<p>However... consistently writing things has barely ever been easy for me. Some days, I can write <strong>thousands</strong> of words, while on other days, I <em>struggle</em> to push out a few hundred. Blogging, or faux-blogging always seemed like a good thing for me to do, as the people reading the blog would keep me accountable.</p>\n<p>This blog will probably be a collection/assemblage of small ideas, and/or articles that I have written about things.</p>",
+            "image": "https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/media/posts/2/how-to-write-a-blog-post.jpeg",
+            "author": {
+                "name": "Therizinosaurus Cheloniformis"
+            },
+            "tags": [
+                   "info",
+                   "Blog"
+            ],
+            "date_published": "2023-03-04T15:19:43+00:00",
+            "date_modified": "2023-03-05T16:17:33+00:00"
         }
     ]
 }
