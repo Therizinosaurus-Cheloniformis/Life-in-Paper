@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Life in Paper</title>
-    <link href="https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/feed.xml" rel="self" />
-    <link href="https://therizinosaurus_cheloniformis.github.io/Life_in_Paper" />
+    <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/feed.xml" rel="self" />
+    <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper" />
     <updated>2023-03-04T15:19:43+00:00</updated>
     <author>
         <name>Therizinosaurus Cheloniformis</name>
     </author>
-    <id>https://therizinosaurus_cheloniformis.github.io/Life_in_Paper</id>
+    <id>https://therizinosaurus-cheloniformis.github.io/Life-in-Paper</id>
 
     <entry>
         <title>A Blog</title>
         <author>
             <name>Therizinosaurus Cheloniformis</name>
         </author>
-        <link href="https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/a-blog.html"/>
-        <id>https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/a-blog.html</id>
+        <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/a-blog.html"/>
+        <id>https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/a-blog.html</id>
 
         <updated>2023-03-04T15:19:43+00:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Therizinosaurus Cheloniformis</name>
         </author>
-        <link href="https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/why-this-exists.html"/>
-        <id>https://therizinosaurus_cheloniformis.github.io/Life_in_Paper/why-this-exists.html</id>
+        <link href="https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/why-this-exists.html"/>
+        <id>https://therizinosaurus-cheloniformis.github.io/Life-in-Paper/why-this-exists.html</id>
             <category term="info"/>
 
         <updated>2023-03-04T15:16:16+00:00</updated>
